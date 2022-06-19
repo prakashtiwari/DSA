@@ -8,8 +8,53 @@ namespace GraphPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            LongestConsequitiveSequence seq = new LongestConsequitiveSequence();
-            seq.GetLongestConsequitiveSequence(new int[] { 2, 5, 7, 10, 11, 12, 13 });
+
+            InAndOutDegree inAndOutDegree = new InAndOutDegree();
+            List<List<int>> adjacency = new List<List<int>>();
+            List<int> adj1 = new List<int>();
+            //0
+            adj1.Add(1);
+            adj1.Add(2);           
+            adjacency.Add(adj1);          
+            //1
+            adj1 = new List<int>();
+            adj1.Add(3);
+            adjacency.Add(adj1);
+
+            //2
+            adj1 = new List<int>();
+            adj1.Add(0);
+            adj1.Add(5);
+            adj1.Add(6);
+            adjacency.Add(adj1);
+            //3
+            adj1 = new List<int>();
+            adj1.Add(1);
+            adj1.Add(4);
+            adjacency.Add(adj1);
+            //4
+            adj1 = new List<int>();
+            adj1.Add(2);
+            adj1.Add(3);
+            adjacency.Add(adj1);
+
+            adj1 = new List<int>();
+            adj1.Add(6);
+            adj1.Add(4);
+            adjacency.Add(adj1);
+
+            adj1 = new List<int>();
+            adj1.Add(5);           
+            adjacency.Add(adj1);
+
+            inAndOutDegree.FindIndegree(adjacency,adjacency.Count);
+
+            //AlienDictionary alDict = new AlienDictionary();
+            //string[] str = new string[] { "wrt", "wrf", "er", "ett", "rftt" };
+            //Console.WriteLine("Word order is: "+alDict.AlienOrder(str));
+            //PerformBFS();
+            //LongestConsequitiveSequence seq = new LongestConsequitiveSequence();
+            //seq.GetLongestConsequitiveSequence(new int[] { 2, 5, 7, 10, 11, 12, 13 });
             //Jagged j = new Jagged();
             //j.JaggedPractice();
             //DFS dFS = new DFS(4);
@@ -79,11 +124,27 @@ namespace GraphPractice
                 { 0,1,0,0,1},
                 {1,0,0,1,1 },
                 { 0,0,0,0,0},
-                { 1,0,1,0,1}
+                { 1,0,1,0,1}                                            };
 
-                                             };
+            Console.WriteLine("Number of Ilands are: " + ilands.CountIlands(matrix));
+        }
 
-            Console.WriteLine("Number of Ilands are-" + ilands.CountIlands(matrix));
+        static void PerformBFS()
+        {
+            BFS obj = new BFS(7);
+            obj.AddEdges(1, 3);
+            obj.AddEdges(3, 4);
+            obj.AddEdges(3, 5);
+            obj.AddEdges(4, 2);
+            obj.AddEdges(6, 7);
+            obj.PerformBFS(3);
+            GraphPractice.GraphProblems.DFS dFS = new GraphPractice.GraphProblems.DFS(7);
+            dFS.AddEdges(1, 3);
+            dFS.AddEdges(3, 4);
+            dFS.AddEdges(3, 5);
+            dFS.AddEdges(4, 2);
+            dFS.AddEdges(6, 7);
+            Console.WriteLine("No of components: " + dFS.NomberOfComponent(5));
         }
     }
 }

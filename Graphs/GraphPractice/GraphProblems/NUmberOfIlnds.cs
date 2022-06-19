@@ -12,21 +12,20 @@ namespace GraphPractice.GraphProblems
 
         int Row=5; int Col=5;
 
-        bool IsSafe(int[,] M, int row, int col, bool[,] visited)
+        bool IsSafe(int[,] M,int row, int col, bool[,] visited)
         {
-
-            return (row >= 0 && row < Row && col >= 0 && col < Col && visited[row, col]);
+            //This is to check boundary cases
+            return (row >= 0 && row < Row && col >= 0 && col < Col && !visited[row, col] && M[row,col]==1);
         
         }
 
         public void DFS(int[,] M, int row, int column, bool[,] visited)
         {
-            int[] rowNumber = {-1,-1,-1,0,0,1,1,1};
-            int [] columnNum ={-1,0,1,-1,1,-1,0,1};
+            int[] rowNumber = {-1,-1,-1, 0, 0, 1,1,1};
+            int [] columnNum ={-1, 0, 1, -1,1,-1,0,1};
 
 
-            visited[row, Col] = true;
-
+            visited[row, column] = true;
             for (int k = 0; k < 8; ++k)
             {
                 if (IsSafe(M, row + rowNumber[k], column + columnNum[k], visited))
