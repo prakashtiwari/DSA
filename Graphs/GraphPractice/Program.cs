@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using GraphPractice.GraphProblems;
+using GraphPractice.Heap;
+
 namespace GraphPractice
 {
     class Program
@@ -9,45 +11,48 @@ namespace GraphPractice
         {
             Console.WriteLine("Hello World!");
 
-            InAndOutDegree inAndOutDegree = new InAndOutDegree();
-            List<List<int>> adjacency = new List<List<int>>();
-            List<int> adj1 = new List<int>();
-            //0
-            adj1.Add(1);
-            adj1.Add(2);           
-            adjacency.Add(adj1);          
-            //1
-            adj1 = new List<int>();
-            adj1.Add(3);
-            adjacency.Add(adj1);
+            Solution sol = new Solution();
+            List<int> result = sol.Solve(new List<int> { 1, 2, 3, 5 }, 3);
 
-            //2
-            adj1 = new List<int>();
-            adj1.Add(0);
-            adj1.Add(5);
-            adj1.Add(6);
-            adjacency.Add(adj1);
-            //3
-            adj1 = new List<int>();
-            adj1.Add(1);
-            adj1.Add(4);
-            adjacency.Add(adj1);
-            //4
-            adj1 = new List<int>();
-            adj1.Add(2);
-            adj1.Add(3);
-            adjacency.Add(adj1);
+            //InAndOutDegree inAndOutDegree = new InAndOutDegree();
+            //List<List<int>> adjacency = new List<List<int>>();
+            //List<int> adj1 = new List<int>();
+            ////0
+            //adj1.Add(1);
+            //adj1.Add(2);           
+            //adjacency.Add(adj1);          
+            ////1
+            //adj1 = new List<int>();
+            //adj1.Add(3);
+            //adjacency.Add(adj1);
 
-            adj1 = new List<int>();
-            adj1.Add(6);
-            adj1.Add(4);
-            adjacency.Add(adj1);
+            ////2
+            //adj1 = new List<int>();
+            //adj1.Add(0);
+            //adj1.Add(5);
+            //adj1.Add(6);
+            //adjacency.Add(adj1);
+            ////3
+            //adj1 = new List<int>();
+            //adj1.Add(1);
+            //adj1.Add(4);
+            //adjacency.Add(adj1);
+            ////4
+            //adj1 = new List<int>();
+            //adj1.Add(2);
+            //adj1.Add(3);
+            //adjacency.Add(adj1);
 
-            adj1 = new List<int>();
-            adj1.Add(5);           
-            adjacency.Add(adj1);
+            //adj1 = new List<int>();
+            //adj1.Add(6);
+            //adj1.Add(4);
+            //adjacency.Add(adj1);
 
-            inAndOutDegree.FindIndegree(adjacency,adjacency.Count);
+            //adj1 = new List<int>();
+            //adj1.Add(5);           
+            //adjacency.Add(adj1);
+
+            //inAndOutDegree.FindIndegree(adjacency,adjacency.Count);
 
             //AlienDictionary alDict = new AlienDictionary();
             //string[] str = new string[] { "wrt", "wrf", "er", "ett", "rftt" };
