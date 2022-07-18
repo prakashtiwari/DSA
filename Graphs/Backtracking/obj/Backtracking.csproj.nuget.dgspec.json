@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practice\\Coding\\DSA\\Graphs\\GraphPractice\\GraphPractice.csproj": {}
+    "C:\\Practice\\Coding\\DSA\\Graphs\\Backtracking\\Backtracking.csproj": {}
   },
   "projects": {
-    "C:\\Practice\\Coding\\DSA\\Graphs\\GraphPractice\\GraphPractice.csproj": {
+    "C:\\Practice\\Coding\\DSA\\Graphs\\Backtracking\\Backtracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practice\\Coding\\DSA\\Graphs\\GraphPractice\\GraphPractice.csproj",
-        "projectName": "GraphPractice",
-        "projectPath": "C:\\Practice\\Coding\\DSA\\Graphs\\GraphPractice\\GraphPractice.csproj",
+        "projectUniqueName": "C:\\Practice\\Coding\\DSA\\Graphs\\Backtracking\\Backtracking.csproj",
+        "projectName": "Backtracking",
+        "projectPath": "C:\\Practice\\Coding\\DSA\\Graphs\\Backtracking\\Backtracking.csproj",
         "packagesPath": "C:\\Users\\praka\\.nuget\\packages\\",
-        "outputPath": "C:\\Practice\\Coding\\DSA\\Graphs\\GraphPractice\\obj\\",
+        "outputPath": "C:\\Practice\\Coding\\DSA\\Graphs\\Backtracking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\praka\\AppData\\Roaming\\NuGet\\NuGet.Config",
