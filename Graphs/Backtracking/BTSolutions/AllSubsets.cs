@@ -10,18 +10,20 @@ namespace Backtracking.BTSolutions
     public class AllSubsets
     {
 
-        public IList<IList<int>> GetAllSubset(int[] arr)
+        public List<List<int>> GetAllSubset(List<int> A)
         {
-            Array.Sort(arr);
-            IList<IList<int>> result = new List<IList<int>>();
-            GetAllSubset(arr, 0, new List<int>(), result);
-            Print(result);
+            if (A == null)
+                return null;
+            A.OrderBy(p=>p);
+            List<List<int>> result = new List<List<int>>();
+            GetAllSubset(A, 0, new List<int>(), result);
+           // Print(result);
             return result;
         }
-        private void GetAllSubset(int[] input, int index, List<int>
-            intermediate, IList<IList<int>> result)
+        private void GetAllSubset(List<int> input, int index, List<int>
+            intermediate, List<List<int>> result)
         {
-            if (index >= input.Length)
+            if (index >= input.Count)
             {
                 Console.WriteLine("Index is while adding to result:" + index);
                 result.Add(new List<int>(intermediate));
@@ -65,22 +67,22 @@ namespace Backtracking.BTSolutions
                 Console.WriteLine("\n");
             }
         }
-        public IList<IList<int>> Subsets(int[] nums)
-        {
-            IList<IList<int>> ans = new List<IList<int>>();
+        //public IList<IList<int>> Subsets(int[] nums)
+        //{
+        //    IList<IList<int>> ans = new List<IList<int>>();
 
-            if (nums == null || nums.Length == 0)
-                return ans;
+        //    if (nums == null || nums.Length == 0)
+        //        return ans;
 
-            List<int> output = new List<int>();
-            int index = 0;
-            Solve(nums, output, index, ans);
-            return ans;
+        //    List<int> output = new List<int>();
+        //    int index = 0;
+        //    Solve(nums, output, index, ans);
+        //    return ans;
 
-        }
+        //}
 
         public void Solve(int[] nums, List<int> output, int index,
-                                        IList<IList<int>> ans)
+                                        List<List<int>> ans)
         {
             if (index >= nums.Length)
             {

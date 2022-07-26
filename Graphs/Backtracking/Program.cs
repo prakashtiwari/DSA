@@ -13,7 +13,7 @@ namespace Backtracking
             //IList<IList<int>> result = new List<IList<int>>();
             //allpermutation.GetAllPermutations(arr, 0, arr.Length, result);
             AllSubsets allSubsets = new AllSubsets();
-            IList<IList<int>> result = allSubsets.GetAllSubset(new int[] { 1, 2, 3 });
+            List<List<int>> result = allSubsets.GetAllSubset(new List<int> { 11,12 });
             Console.ReadLine();// ("Hello World!");
         }
     }
