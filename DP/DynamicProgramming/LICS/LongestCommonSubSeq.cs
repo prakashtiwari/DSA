@@ -22,8 +22,8 @@ namespace DynamicProgramming.LICS
 
                 }
             }
-            // int longestLics = GetLongestSubsequence(s1, s2, i - 1, j - 1);
-            int longestLics = GetLongestSubsequenceIterative(s1, s2, i - 1, j - 1);
+            int longestLics = GetLongestSubsequence(s1, s2, i - 1, j - 1);
+            // int longestLics = GetLongestSubsequenceIterative(s1, s2, i - 1, j - 1);
             //   var output = GetLicsString(i - 1, j - 1, s1, s2, longestLics).Reverse<char>();
             return longestLics;
         }
