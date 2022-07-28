@@ -116,11 +116,13 @@ namespace DynamicProgramming.LICS
                 {
                     if (s1[m] == s2[n])
                     {
+                        //Comon character found then get the diagnal
 
                         dp[m, n] = 1 + dp[m - 1, n - 1];
                     }
                     else
                     {
+                        //Take max of top or left.
                         dp[m, n] = Math.Max(dp[m, n - 1], dp[m - 1, n]);
 
                     }
