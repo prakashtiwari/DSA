@@ -48,7 +48,7 @@ namespace DynamicProgramming.EditPath
                              //s1="abc" s2="[p-0,m-1,s-2,a-3,b-4,c-5" until index 3 both will match from index  2,
                              //from where 3 chars needs to be added to s2.
             else if (m != -1 && n == -1)
-                return m + 1; //m+1 chars have to be deleted to match s2
+                return m + 1; //m+1 chars have to be deleted to match s2, because s2 is empty but s1 is still having characters.
             if (dp[m, n] != 0)
                 return dp[m, n];
             if (s1[m] == s2[n])
