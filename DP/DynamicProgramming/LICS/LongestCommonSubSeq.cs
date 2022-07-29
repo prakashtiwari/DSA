@@ -85,8 +85,17 @@ namespace DynamicProgramming.LICS
             }
             return dp[i, j];
         }
+        /// <summary>
+        /// Iterative solution
+        /// </summary>
+        /// <param name="s1"></param>
+        /// <param name="s2"></param>
+        /// <param name="i"></param>
+        /// <param name="j"></param>
+        /// <returns></returns>
         private int GetLongestSubsequenceIterative(string s1, string s2, int i, int j)
         {
+            //Fill first column
             for (int p = 0; p <= j; p++)
             {
                 if (s1[0] == s2[p])
@@ -98,6 +107,7 @@ namespace DynamicProgramming.LICS
                     dp[0, p] = 0;
                 }
             }
+            //Fill first row
             for (int p = 0; p <= i; p++)
             {
                 if (s2[0] == s1[p])
@@ -117,12 +127,11 @@ namespace DynamicProgramming.LICS
                     if (s1[m] == s2[n])
                     {
                         //Comon character found then get the diagnal
-
                         dp[m, n] = 1 + dp[m - 1, n - 1];
                     }
                     else
                     {
-                        //Take max of top or left.
+                        //Take max value of top or left.
                         dp[m, n] = Math.Max(dp[m, n - 1], dp[m - 1, n]);
 
                     }

@@ -8,7 +8,7 @@ using DynamicProgramming.PrincessAndDungeon;
 using DynamicProgramming.SqrRoot;
 using System;
 using System.Collections.Generic;
-
+using DynamicProgramming.EditPath;
 namespace DynamicProgramming
 {
     class Program
@@ -55,9 +55,13 @@ namespace DynamicProgramming
             //input.Add(r4);
             //int minEnergey = princessInDungeon.calculateMinimumHP(input);
             //Console.WriteLine("Min energy needed: "+ minEnergey);
-            LongestCommonSubSeq longestCommonSubSeq = new LongestCommonSubSeq();
-            int result = longestCommonSubSeq.GetLongestCommonSubSeq("mapyak", "samyak");
-            Console.WriteLine("LICS is: " + result);
+            //LongestCommonSubSeq longestCommonSubSeq = new LongestCommonSubSeq();
+            //int result = longestCommonSubSeq.GetLongestCommonSubSeq("mapyak", "samyak");
+            //Console.WriteLine("LICS is: " + result);
+
+            EditDist editPath = new EditDist();
+            int result = editPath.GetEditDistanceCost("abnluftan", "kaspbft");
+            Console.WriteLine("Distance is result:"+ result);
             Console.ReadLine();
         }
     }
