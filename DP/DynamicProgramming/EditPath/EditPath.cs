@@ -9,35 +9,30 @@ namespace DynamicProgramming.EditPath
     public class EditDist
     {
         int[,] dp;
-        public int GetEditDistanceCost(string s1, string s2)
+        public int GetEditDistanceCost(string A, string B)
         {
             int cost = 0;
             //If both strings are empty, then distance to edit will be 0;
-            if (string.IsNullOrEmpty(s1) && string.IsNullOrEmpty(s1))
+            if (string.IsNullOrEmpty(A) && string.IsNullOrEmpty(B))
             {
-                cost = s2.Length;
+               // cost = s2.Length;
                 return cost;
             }
             //If s1 is empty then no of character in s2 should be added.
-            if (string.IsNullOrEmpty(s1))
+            if (string.IsNullOrEmpty(A))
             {
-                cost = s2.Length;
+                cost = B.Length;
                 return cost;
-            }
-            //If s2 is empty then no of characters in s1 should be deleted to make s1 equal to s2.
-            else if (string.IsNullOrEmpty(s2))
-            {
-                cost = s1.Length;
-                return cost;
-            }
-            dp = new int[s1.Length, s2.Length];
-            int l1 = s1.Length;
-            int l2 = s2.Length;
-            cost = GetMinCostDistance(s1, s2, l1 - 1, l2 - 1);
+            }           
+            dp = new int[A.Length, B.Length];
+            int l1 = A.Length;
+            int l2 = B.Length;
+            // cost = GetMinCostDistanceRecursive(s1, s2, l1 - 1, l2 - 1);
+            cost = GetMinCostIterative(A, B, l1 - 1, l2 - 1);            
             return cost;
 
         }
-        private int GetMinCostDistance(string s1, string s2, int m, int n)
+        private int GetMinCostDistanceRecursive(string s1, string s2, int m, int n)
         {
 
             if (m == -1 && n == -1)
@@ -53,43 +48,58 @@ namespace DynamicProgramming.EditPath
                 return dp[m, n];
             if (s1[m] == s2[n])
             {
-                dp[m, n] = GetMinCostDistance(s1, s2, m - 1, n - 1);
+                dp[m, n] = GetMinCostDistanceRecursive(s1, s2, m - 1, n - 1);
 
             }
             else
             {
-                int replacement = 1 + GetMinCostDistance(s1, s2, m - 1, n - 1);
-                int del = 1 + GetMinCostDistance(s1, s2, m - 1, n);
-                int insert = 1 + GetMinCostDistance(s1, s2, m, n - 1);
+                int replacement = 1 + GetMinCostDistanceRecursive(s1, s2, m - 1, n - 1);
+                int del = 1 + GetMinCostDistanceRecursive(s1, s2, m - 1, n);
+                int insert = 1 + GetMinCostDistanceRecursive(s1, s2, m, n - 1);
                 dp[m, n] = Math.Min(replacement, Math.Min(del, insert));
-            }
-
-
-
-
-            //for (int i = 1; i <= m; i++)
-            //{
-            //    for (int j = 1; j <= n; j++)
-            //    {
-            //        if (s1[i] == s2[j])
-            //        {
-            //            dp[i, j] = 1 + dp[i - 1, j - 1];
-            //        }
-            //        else
-            //        {
-            //            //When replacing the last s1's last character to match s2's last character. Size of both string will declease.
-            //            int replacement = 1 + dp[i - 1, j - 1];
-            //            //When deleting the last s1's last character to match s2's last character. Size of s1 string will decrease.
-            //            int del = 1 + dp[i - 1, j];
-            //            int insert = 1 + dp[i, j - 1];
-            //            dp[i, j] = Math.Min(replacement, Math.Min(del, insert));
-            //        }
-
-            //    }
-
-            //}
+            }            
             return dp[m, n];
 
+        }
+        private int GetMinCostIterative(string s1, string s2, int m, int n)
+        {
+            int r = s1.Length + 1;
+            int c = s2.Length + 1;
+            dp = new int[r, c];
+            //Initialize row and column
+            //Why extra row and column? Because formulae is i-1,j-1 so first row and first column should be pre calculated
+            for (int i = 0; i < r; i++)
+            {
+                dp[i, 0] = i;
+            }
+            for (int j = 0; j < c; j++)
+            {
+                //Why
+                dp[0, j] = j;
+            }
+
+            for (int i = 1; i <r; i++)
+            {
+                for (int j = 1; j <c; j++)
+                {
+                    if (s1[i-1] == s2[j-1])
+                    {
+                        dp[i, j] = dp[i - 1, j - 1];
+                    }
+                    else
+                    {
+                        //When replacing the last s1's last character to match s2's last character. Size of both string will declease.
+                        int replacement = 1 + dp[i - 1, j - 1];
+                        //When deleting the last s1's last character to match s2's last character. Size of s1 string will decrease.
+                        int del = 1 + dp[i - 1, j];
+                        int insert = 1 + dp[i, j - 1];
+                        dp[i, j] = Math.Min(replacement, Math.Min(del, insert));
+                    }
+
+                }
+
+            }
+            return dp[r-1, c-1];
         }
     }
 }
