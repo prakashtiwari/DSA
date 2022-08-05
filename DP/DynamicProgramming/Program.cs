@@ -14,6 +14,7 @@ using DynamicProgramming.Knapsack;
 using DynamicProgramming.LongestIncreasingSubseq;
 using DynamicProgramming.DistinctSubSeq;
 using DynamicProgramming.MinFallingPathSum;
+using DynamicProgramming.WaysToDecode;
 
 namespace DynamicProgramming
 {
@@ -87,10 +88,13 @@ namespace DynamicProgramming
             // DistinctSubSeqCal distinctSubSeqCal = new DistinctSubSeqCal();
             //int maxWay =distinctSubSeqCal.GetDistinctSub("babgbag", "bag");
             // Console.WriteLine(maxWay);
-            MinFallingPathSumSoln minFallingPathSum = new MinFallingPathSumSoln();
-            int[,] data = new int[4, 5] { { 3, 7, 2, 3, 6 }, { 9, 2, 8, 4, 4 }, { 3, 10, 1, 2, 6 }, { 16, 15, 2, 11, 12 } };
-            int minResult = minFallingPathSum.GetMinFallingPathSum(data, 4, 5);
-            Console.WriteLine(minResult);
+            //MinFallingPathSumSoln minFallingPathSum = new MinFallingPathSumSoln();
+            //int[,] data = new int[4, 5] { { 3, 7, 2, 3, 6 }, { 9, 2, 8, 4, 4 }, { 3, 10, 1, 2, 6 }, { 16, 15, 2, 11, 12 } };
+            //int minResult = minFallingPathSum.GetMinFallingPathSum(data, 4, 5);
+            //Console.WriteLine(minResult);
+            WaysToDecodeSoln waysToDecode = new WaysToDecodeSoln();
+            int waysDecoded = waysToDecode.GetWaysToBedecoded("226");
+            Console.WriteLine(waysDecoded);
             Console.ReadLine();
         }
     }
