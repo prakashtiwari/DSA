@@ -11,6 +11,9 @@ using System.Collections.Generic;
 using DynamicProgramming.EditPath;
 using DynamicProgramming.PatternMatching;
 using DynamicProgramming.Knapsack;
+using DynamicProgramming.LongestIncreasingSubseq;
+using DynamicProgramming.DistinctSubSeq;
+using DynamicProgramming.MinFallingPathSum;
 
 namespace DynamicProgramming
 {
@@ -71,11 +74,23 @@ namespace DynamicProgramming
             //int Matched = patternMatching.MatchPattern("abc", "*?");
             //Console.WriteLine("Pattern matched:" + Matched);
             //Knapsakc
-            ZeroOneKnapsack zeroOneKnapsack = new ZeroOneKnapsack();
-            int[] weights = new int[] { 3, 6, 5, 2, 4 };
-            int[] values = new int[] { 12, 20, 15, 6, 10 };
-            int happiness = zeroOneKnapsack.GetMaxVal(weights, values, 8, 5);
-            Console.WriteLine("Max happiness: " + happiness);
+            //ZeroOneKnapsack zeroOneKnapsack = new ZeroOneKnapsack();
+            //int[] weights = new int[] { 3, 6, 5, 2, 4 };
+            //int[] values = new int[] { 12, 20, 15, 6, 10 };
+            //int happiness = zeroOneKnapsack.GetMaxVal(weights, values, 8, 5);
+            //Console.WriteLine("Max happiness: " + happiness);
+
+            //LongestIncreasingSubSeq longestIncreasingSubSeq = new LongestIncreasingSubSeq();
+            //int[] arr = new int[] { 10, 3, 12, 7, 2, 9, 11, 20, 11, 13, 6, 8 };
+            //int maxIncSeq = longestIncreasingSubSeq.GetLongestIncreasingSubSeq(arr);
+
+            // DistinctSubSeqCal distinctSubSeqCal = new DistinctSubSeqCal();
+            //int maxWay =distinctSubSeqCal.GetDistinctSub("babgbag", "bag");
+            // Console.WriteLine(maxWay);
+            MinFallingPathSumSoln minFallingPathSum = new MinFallingPathSumSoln();
+            int[,] data = new int[4, 5] { { 3, 7, 2, 3, 6 }, { 9, 2, 8, 4, 4 }, { 3, 10, 1, 2, 6 }, { 16, 15, 2, 11, 12 } };
+            int minResult = minFallingPathSum.GetMinFallingPathSum(data, 4, 5);
+            Console.WriteLine(minResult);
             Console.ReadLine();
         }
     }
