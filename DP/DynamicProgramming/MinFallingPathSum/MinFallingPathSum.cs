@@ -36,7 +36,7 @@ namespace DynamicProgramming.MinFallingPathSum
                     Console.WriteLine("Min is : " + min);
 
                    path[i, j] += min;//Min of above row is getting added to current row
-                    Console.WriteLine("I and J is I is : " + i + " j:  " + j + "Min is: " + path[i, j]);
+                    Console.WriteLine("I and J is I is : " + i + " j:  " + j + "  Min is: " + path[i, j]);
                 }
                 
             }

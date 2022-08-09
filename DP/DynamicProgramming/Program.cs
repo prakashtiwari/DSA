@@ -15,6 +15,8 @@ using DynamicProgramming.LongestIncreasingSubseq;
 using DynamicProgramming.DistinctSubSeq;
 using DynamicProgramming.MinFallingPathSum;
 using DynamicProgramming.WaysToDecode;
+using DynamicProgramming.WaysToGetSumSol;
+using DynamicProgramming.PalinPartition;
 
 namespace DynamicProgramming
 {
@@ -91,10 +93,18 @@ namespace DynamicProgramming
             //MinFallingPathSumSoln minFallingPathSum = new MinFallingPathSumSoln();
             //int[,] data = new int[4, 5] { { 3, 7, 2, 3, 6 }, { 9, 2, 8, 4, 4 }, { 3, 10, 1, 2, 6 }, { 16, 15, 2, 11, 12 } };
             //int minResult = minFallingPathSum.GetMinFallingPathSum(data, 4, 5);
-            //Console.WriteLine(minResult);
-            WaysToDecodeSoln waysToDecode = new WaysToDecodeSoln();
-            int waysDecoded = waysToDecode.GetWaysToBedecoded("226");
-            Console.WriteLine(waysDecoded);
+            int waysToGetSum = 0;
+            WaysToGetSum objwaysToGetSum = new WaysToGetSum();
+            int[] input = new int[] { 1, 2, 3 };
+            waysToGetSum = objwaysToGetSum.GetWays(input, 4);
+            Console.WriteLine(waysToGetSum);
+
+            PalinPartitioningSol palinPartitioning = new PalinPartitioningSol();
+            int result = palinPartitioning.minCut("bcaaacb");//--"ababc");
+            Console.WriteLine("Length of cut:"+ result);
+            //WaysToDecodeSoln waysToDecode = new WaysToDecodeSoln();
+            //int waysDecoded = waysToDecode.GetWaysToBedecoded("226");
+            //Console.WriteLine(waysDecoded);
             Console.ReadLine();
         }
     }
