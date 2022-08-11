@@ -17,6 +17,7 @@ using DynamicProgramming.MinFallingPathSum;
 using DynamicProgramming.WaysToDecode;
 using DynamicProgramming.WaysToGetSumSol;
 using DynamicProgramming.PalinPartition;
+using DynamicProgramming.DivideIntoSubset;
 
 namespace DynamicProgramming
 {
@@ -99,12 +100,27 @@ namespace DynamicProgramming
             waysToGetSum = objwaysToGetSum.GetWays(input, 4);
             Console.WriteLine(waysToGetSum);
 
-            PalinPartitioningSol palinPartitioning = new PalinPartitioningSol();
-            int result = palinPartitioning.minCut("bcaaacb");//--"ababc");
-            Console.WriteLine("Length of cut:"+ result);
+            //PalinPartitioningSol palinPartitioning = new PalinPartitioningSol();
+            //int result = palinPartitioning.minCut("bcaaacb");//--"ababc");
+            //Console.WriteLine("Length of cut:"+ result);
             //WaysToDecodeSoln waysToDecode = new WaysToDecodeSoln();
             //int waysDecoded = waysToDecode.GetWaysToBedecoded("226");
             //Console.WriteLine(waysDecoded);
+            //DevideIntoEqualSum devideIntoEqualSum = new DevideIntoEqualSum();
+            //bool response = devideIntoEqualSum.canDivideEqualSubset(new int[] { 1, 3, 4 });
+            //Console.WriteLine("Can be divided:"+ (response?"Yes":"No"));
+
+            //TargetK target = new TargetK();
+            //bool canAchieved = target.CanTargetBeAchieved(new int[] { 2,3,1,1 }, 4);
+            //Console.WriteLine("Can be achieved:" + canAchieved);
+            int[] arr = new int[] { 2, 3, 1, 1,7 };
+            DevideIntoEqualSum devideIntoEqualSum = new DevideIntoEqualSum();
+            bool canBedivided = devideIntoEqualSum.canDivideEqualSubset(arr);
+            Console.WriteLine("Can be divided equally: "+ canBedivided);
+
+            //WaysToDecodeTillN waysToDecodeTillN = new WaysToDecodeTillN();
+            //Console.WriteLine(waysToDecodeTillN.GetWaysToDecodeTillN(7));
+
             Console.ReadLine();
         }
     }

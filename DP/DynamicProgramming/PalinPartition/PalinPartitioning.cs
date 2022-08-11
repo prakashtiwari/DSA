@@ -30,8 +30,10 @@ namespace DynamicProgramming.PalinPartition
                     // 2. String of length 2 is palindrome if Ci == Cj which is already checked in first part so no need to check again
                     // 3. String of length 3 is palindrome if Ci == Cj which is already checked in first part and Ci+1 and Cj-1 is same character which is always a palindrome
 
-                    // If String length >=4
+                    // If String length >=3
                     // then check if Ci == Cj and if they are equal check if String[j+1 .. i-1] is a palindrome from the boolean table
+                    //i - j < 3: This condition is for string "cbc","bb","b": These are palindrome if first character and last character is same.
+                    //If string is Palindrome: p[j + 1, i - 1]
                     if (s[j] == s[i] && (i - j < 3 || p[j + 1, i - 1]))
                     {
                         Console.WriteLine("s[j]-" + s[j] + "s[i]-" + s[i]);
@@ -43,6 +45,8 @@ namespace DynamicProgramming.PalinPartition
                         // Else I need a cut at jth location and it will be cuts encountered till j-1 + 1
                         if (j != 0)
                             Console.WriteLine("j-1 is: " + cut[j - 1]);
+                        //j == 0, This means j to i is palindrome.
+                        //abba
                         min = j == 0 ? 0 : Math.Min(min, cut[j - 1] + 1);
                         Console.WriteLine("Min after update is: " + min);
                     }
