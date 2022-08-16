@@ -8,7 +8,7 @@ namespace DynamicProgramming.PalinPartition
 {
     public class PalinPartitioningSol
     {
-        public int minCut(String s)
+        public int minCutPalindrome(String s)
         {
             int n, min;
             n = s.Length;

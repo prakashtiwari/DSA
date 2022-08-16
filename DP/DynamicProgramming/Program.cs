@@ -18,6 +18,7 @@ using DynamicProgramming.WaysToDecode;
 using DynamicProgramming.WaysToGetSumSol;
 using DynamicProgramming.PalinPartition;
 using DynamicProgramming.DivideIntoSubset;
+using DynamicProgramming.BuyAndSellStocks;
 
 namespace DynamicProgramming
 {
@@ -94,14 +95,14 @@ namespace DynamicProgramming
             //MinFallingPathSumSoln minFallingPathSum = new MinFallingPathSumSoln();
             //int[,] data = new int[4, 5] { { 3, 7, 2, 3, 6 }, { 9, 2, 8, 4, 4 }, { 3, 10, 1, 2, 6 }, { 16, 15, 2, 11, 12 } };
             //int minResult = minFallingPathSum.GetMinFallingPathSum(data, 4, 5);
-            int waysToGetSum = 0;
-            WaysToGetSum objwaysToGetSum = new WaysToGetSum();
-            int[] input = new int[] { 1, 2, 3 };
-            waysToGetSum = objwaysToGetSum.GetWays(input, 4);
-            Console.WriteLine(waysToGetSum);
+            //int waysToGetSum = 0;
+            //WaysToGetSum objwaysToGetSum = new WaysToGetSum();
+            //int[] input = new int[] { 1, 2, 3 };
+            //waysToGetSum = objwaysToGetSum.GetWays(input, 4);
+            //Console.WriteLine(waysToGetSum);
 
             //PalinPartitioningSol palinPartitioning = new PalinPartitioningSol();
-            //int result = palinPartitioning.minCut("bcaaacb");//--"ababc");
+            //int result = palinPartitioning.minCutPalindrome("bcaaacb");//--"ababc");
             //Console.WriteLine("Length of cut:"+ result);
             //WaysToDecodeSoln waysToDecode = new WaysToDecodeSoln();
             //int waysDecoded = waysToDecode.GetWaysToBedecoded("226");
@@ -113,14 +114,25 @@ namespace DynamicProgramming
             //TargetK target = new TargetK();
             //bool canAchieved = target.CanTargetBeAchieved(new int[] { 2,3,1,1 }, 4);
             //Console.WriteLine("Can be achieved:" + canAchieved);
-            int[] arr = new int[] { 2, 3, 1, 1,7 };
-            DevideIntoEqualSum devideIntoEqualSum = new DevideIntoEqualSum();
-            bool canBedivided = devideIntoEqualSum.canDivideEqualSubset(arr);
-            Console.WriteLine("Can be divided equally: "+ canBedivided);
-
+            int[] arr = new int[] { 2, 3, 1, 1, 7 };
+            //DevideIntoEqualSum devideIntoEqualSum = new DevideIntoEqualSum();
+            //bool canBedivided = devideIntoEqualSum.canDivideEqualSubset(arr);
+            //Console.WriteLine("Can be divided equally: "+ canBedivided);
+            //TargetK objTargetK = new TargetK();
+            //int min = objTargetK.MinDiff(arr, 14);
+            //Console.WriteLine("Min is:"+ min);
             //WaysToDecodeTillN waysToDecodeTillN = new WaysToDecodeTillN();
             //Console.WriteLine(waysToDecodeTillN.GetWaysToDecodeTillN(7));
+            /////////////Buy and sell stock 2
 
+            //BuyAndSellStocks2 buyAndSellStocks = new BuyAndSellStocks2();
+            //int[] stocks = new int[] { 7, 1, 5, 6, 3, 8,2,1,7 };
+            //long maxProfit = buyAndSellStocks.GetMaxProfit(stocks);
+            //Console.WriteLine("Max profit is:"+ maxProfit);
+            BuyAndSellStock3 buy = new BuyAndSellStock3();
+            int[] stocks = new int[] { 7, 1, 5, 6, 3, 8, 2, 0,1, 7 };
+            int profitOnLimitedTransact = buy.GetMaxProfiForKTransactUsingTransactNoSO(stocks, 2, 3);
+            Console.WriteLine($"Max profit on the limited transaction :" + profitOnLimitedTransact);
             Console.ReadLine();
         }
     }

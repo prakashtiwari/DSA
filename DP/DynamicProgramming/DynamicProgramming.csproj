@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="BurstBaloon\" />
     <Folder Include="WaysToHaveFun\" />
   </ItemGroup>
 
