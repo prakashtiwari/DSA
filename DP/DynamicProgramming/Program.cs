@@ -19,6 +19,8 @@ using DynamicProgramming.WaysToGetSumSol;
 using DynamicProgramming.PalinPartition;
 using DynamicProgramming.DivideIntoSubset;
 using DynamicProgramming.BuyAndSellStocks;
+using DynamicProgramming.CutStick;
+using DynamicProgramming.BurstBaloon;
 
 namespace DynamicProgramming
 {
@@ -129,10 +131,23 @@ namespace DynamicProgramming
             //int[] stocks = new int[] { 7, 1, 5, 6, 3, 8,2,1,7 };
             //long maxProfit = buyAndSellStocks.GetMaxProfit(stocks);
             //Console.WriteLine("Max profit is:"+ maxProfit);
-            BuyAndSellStock3 buy = new BuyAndSellStock3();
-            int[] stocks = new int[] { 7, 1, 5, 6, 3, 8, 2, 0,1, 7 };
-            int profitOnLimitedTransact = buy.GetMaxProfiForKTransactUsingTransactNoSO(stocks, 2, 3);
-            Console.WriteLine($"Max profit on the limited transaction :" + profitOnLimitedTransact);
+            //BuyAndSellStock3 buy = new BuyAndSellStock3();
+            //int[] stocks = new int[] { 7, 1, 5, 6, 3, 8, 2, 0,1, 7 };
+            //int profitOnLimitedTransact = buy.GetMaxProfiForKTransactUsingTransactNoSO(stocks, 2, 3);
+            //Console.WriteLine($"Max profit on the limited transaction :" + profitOnLimitedTransact);
+            //
+            //CutStickMinCost cutStickMinCost = new CutStickMinCost();
+            //int[] cuts = new int[] { 0, 5, 6, 1, 4, 2, 9 };
+            ////1,2,4,5,6
+            //Array.Sort(cuts);
+            //int minCost = cutStickMinCost.GetMinCost(cuts, 9, 5);
+            // Console.WriteLine("Min cost is:" + minCost);
+
+            BurstBallonMaxCostSoln ballloon = new BurstBallonMaxCostSoln();
+            //int[] ball2 = new int[] { 1,2,3,4 };
+            int[] ball = new int[] { 3,1,5,8 };
+            int balloonCost = ballloon.GetBurstBallonMaxCost(ball);
+            Console.WriteLine("Cost is :"+ balloonCost);
             Console.ReadLine();
         }
     }
