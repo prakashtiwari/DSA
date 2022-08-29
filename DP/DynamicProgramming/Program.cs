@@ -21,6 +21,7 @@ using DynamicProgramming.DivideIntoSubset;
 using DynamicProgramming.BuyAndSellStocks;
 using DynamicProgramming.CutStick;
 using DynamicProgramming.BurstBaloon;
+using DynamicProgramming.PartitionArray;
 
 namespace DynamicProgramming
 {
@@ -145,9 +146,12 @@ namespace DynamicProgramming
 
             BurstBallonMaxCostSoln ballloon = new BurstBallonMaxCostSoln();
             //int[] ball2 = new int[] { 1,2,3,4 };
-            int[] ball = new int[] { 3,1,5,8 };
-            int balloonCost = ballloon.GetBurstBallonMaxCost(ball);
-            Console.WriteLine("Cost is :"+ balloonCost);
+            int[] ball = new int[] { 3, 1, 5, 8 ,6,9};
+            //int balloonCost = ballloon.GetBurstBallonMaxCost(ball);
+            //Console.WriteLine("Cost is :"+ balloonCost);
+            PartitionArraySol partitionArray = new PartitionArraySol();
+            int response = partitionArray.maxSubArray(ball, 3);
+            Console.WriteLine("MAx is: " + response);
             Console.ReadLine();
         }
     }

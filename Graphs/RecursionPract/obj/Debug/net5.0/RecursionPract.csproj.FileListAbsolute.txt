@@ -1,0 +1,16 @@
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\RecursionPract.exe
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\RecursionPract.deps.json
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\RecursionPract.runtimeconfig.json
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\RecursionPract.runtimeconfig.dev.json
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\RecursionPract.dll
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\ref\RecursionPract.dll
+C:\Practice\Coding\DSA\Graphs\RecursionPract\bin\Debug\net5.0\RecursionPract.pdb
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.csproj.AssemblyReference.cache
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.AssemblyInfoInputs.cache
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.AssemblyInfo.cs
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.csproj.CoreCompileInputs.cache
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.dll
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\ref\RecursionPract.dll
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.pdb
+C:\Practice\Coding\DSA\Graphs\RecursionPract\obj\Debug\net5.0\RecursionPract.genruntimeconfig.cache
