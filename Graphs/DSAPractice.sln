@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrentColl", "Concurren
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPractice", "StringPractice\StringPractice.csproj", "{5A39F4A7-1EC9-4CA2-AA01-6CC68B62ADE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySolution", "ArraySolution\ArraySolution.csproj", "{9CD89C74-69A6-4E67-84E8-63956866A1B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySolution", "ArraySolution\ArraySolution.csproj", "{9CD89C74-69A6-4E67-84E8-63956866A1B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionPract", "RecursionPract\RecursionPract.csproj", "{8D290C4D-7A2B-4624-9C8B-13AC09FA605A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursionPract", "RecursionPract\RecursionPract.csproj", "{8D290C4D-7A2B-4624-9C8B-13AC09FA605A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentCollection", "..\ConcurrentCollection\ConcurrentCollection.csproj", "{B633902F-7599-407F-BF4D-786681190A94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8D290C4D-7A2B-4624-9C8B-13AC09FA605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D290C4D-7A2B-4624-9C8B-13AC09FA605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D290C4D-7A2B-4624-9C8B-13AC09FA605A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B633902F-7599-407F-BF4D-786681190A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B633902F-7599-407F-BF4D-786681190A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B633902F-7599-407F-BF4D-786681190A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B633902F-7599-407F-BF4D-786681190A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

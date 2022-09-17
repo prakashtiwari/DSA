@@ -13,3 +13,4 @@ C:\Practice\Coding\DSA\Graphs\ArraySolution\obj\Debug\net5.0\ArraySolution.dll
 C:\Practice\Coding\DSA\Graphs\ArraySolution\obj\Debug\net5.0\ref\ArraySolution.dll
 C:\Practice\Coding\DSA\Graphs\ArraySolution\obj\Debug\net5.0\ArraySolution.pdb
 C:\Practice\Coding\DSA\Graphs\ArraySolution\obj\Debug\net5.0\ArraySolution.genruntimeconfig.cache
+C:\Practice\Coding\DSA\Graphs\ArraySolution\obj\Debug\net5.0\ArraySolution.csproj.AssemblyReference.cache
