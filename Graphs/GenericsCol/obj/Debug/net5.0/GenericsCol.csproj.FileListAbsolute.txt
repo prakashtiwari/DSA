@@ -1,0 +1,15 @@
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\GenericsCol.exe
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\GenericsCol.deps.json
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\GenericsCol.runtimeconfig.json
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\GenericsCol.runtimeconfig.dev.json
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\GenericsCol.dll
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\ref\GenericsCol.dll
+C:\Practice\Coding\DSA\Graphs\GenericsCol\bin\Debug\net5.0\GenericsCol.pdb
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.AssemblyInfoInputs.cache
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.AssemblyInfo.cs
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.csproj.CoreCompileInputs.cache
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.dll
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\ref\GenericsCol.dll
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.pdb
+C:\Practice\Coding\DSA\Graphs\GenericsCol\obj\Debug\net5.0\GenericsCol.genruntimeconfig.cache

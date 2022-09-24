@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySolution", "ArraySolut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursionPract", "RecursionPract\RecursionPract.csproj", "{8D290C4D-7A2B-4624-9C8B-13AC09FA605A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentCollection", "..\ConcurrentCollection\ConcurrentCollection.csproj", "{B633902F-7599-407F-BF4D-786681190A94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrentCollection", "..\ConcurrentCollection\ConcurrentCollection.csproj", "{B633902F-7599-407F-BF4D-786681190A94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPL", "TPL\TPL.csproj", "{9AA00A84-8E0A-4FEB-8F6A-7AE47DB48654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsCol", "GenericsCol\GenericsCol.csproj", "{84DE53D7-2C30-488A-AF18-07FE7B1A64E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{B633902F-7599-407F-BF4D-786681190A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B633902F-7599-407F-BF4D-786681190A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B633902F-7599-407F-BF4D-786681190A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA00A84-8E0A-4FEB-8F6A-7AE47DB48654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA00A84-8E0A-4FEB-8F6A-7AE47DB48654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA00A84-8E0A-4FEB-8F6A-7AE47DB48654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA00A84-8E0A-4FEB-8F6A-7AE47DB48654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DE53D7-2C30-488A-AF18-07FE7B1A64E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DE53D7-2C30-488A-AF18-07FE7B1A64E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DE53D7-2C30-488A-AF18-07FE7B1A64E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DE53D7-2C30-488A-AF18-07FE7B1A64E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
