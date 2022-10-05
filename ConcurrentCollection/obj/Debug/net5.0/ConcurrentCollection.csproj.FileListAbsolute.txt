@@ -5,6 +5,7 @@ C:\Practice\Coding\DSA\ConcurrentCollection\bin\Debug\net5.0\ConcurrentCollectio
 C:\Practice\Coding\DSA\ConcurrentCollection\bin\Debug\net5.0\ConcurrentCollection.dll
 C:\Practice\Coding\DSA\ConcurrentCollection\bin\Debug\net5.0\ref\ConcurrentCollection.dll
 C:\Practice\Coding\DSA\ConcurrentCollection\bin\Debug\net5.0\ConcurrentCollection.pdb
+C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.csproj.AssemblyReference.cache
 C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.GeneratedMSBuildEditorConfig.editorconfig
 C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.AssemblyInfoInputs.cache
 C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.AssemblyInfo.cs
@@ -13,4 +14,3 @@ C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollectio
 C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ref\ConcurrentCollection.dll
 C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.pdb
 C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.genruntimeconfig.cache
-C:\Practice\Coding\DSA\ConcurrentCollection\obj\Debug\net5.0\ConcurrentCollection.csproj.AssemblyReference.cache

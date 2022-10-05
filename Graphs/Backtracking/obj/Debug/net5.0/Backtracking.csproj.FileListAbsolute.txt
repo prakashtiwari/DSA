@@ -5,6 +5,7 @@ C:\Practice\Coding\DSA\Graphs\Backtracking\bin\Debug\net5.0\Backtracking.runtime
 C:\Practice\Coding\DSA\Graphs\Backtracking\bin\Debug\net5.0\Backtracking.dll
 C:\Practice\Coding\DSA\Graphs\Backtracking\bin\Debug\net5.0\ref\Backtracking.dll
 C:\Practice\Coding\DSA\Graphs\Backtracking\bin\Debug\net5.0\Backtracking.pdb
+C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.csproj.AssemblyReference.cache
 C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.GeneratedMSBuildEditorConfig.editorconfig
 C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.AssemblyInfoInputs.cache
 C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.AssemblyInfo.cs
@@ -13,4 +14,3 @@ C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.dll
 C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\ref\Backtracking.dll
 C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.pdb
 C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.genruntimeconfig.cache
-C:\Practice\Coding\DSA\Graphs\Backtracking\obj\Debug\net5.0\Backtracking.csproj.AssemblyReference.cache

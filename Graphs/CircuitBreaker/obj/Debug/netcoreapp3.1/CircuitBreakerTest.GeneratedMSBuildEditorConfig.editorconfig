@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CircuitBreakerTest
+build_property.ProjectDir = C:\Practice\Coding\DSA\Graphs\CircuitBreaker\
