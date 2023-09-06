@@ -1,0 +1,16 @@
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\bin\Debug\net7.0\SOLIDDesignPrinciple.exe
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\bin\Debug\net7.0\SOLIDDesignPrinciple.deps.json
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\bin\Debug\net7.0\SOLIDDesignPrinciple.runtimeconfig.json
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\bin\Debug\net7.0\SOLIDDesignPrinciple.dll
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\bin\Debug\net7.0\SOLIDDesignPrinciple.pdb
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.csproj.AssemblyReference.cache
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.AssemblyInfoInputs.cache
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.AssemblyInfo.cs
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.dll
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\refint\SOLIDDesignPrinciple.dll
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.pdb
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\SOLIDDesignPrinciple.genruntimeconfig.cache
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\obj\Debug\net7.0\ref\SOLIDDesignPrinciple.dll
+C:\Prakash\Practice\SOLIDDesignPrinciple\SOLIDDesignPrinciple\bin\Debug\net7.0\SRP\PolicyData.json

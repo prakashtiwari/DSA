@@ -1,0 +1,13 @@
+C:\Prakash\Practice\Logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Data.deps.json
+C:\Prakash\Practice\Logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Data.dll
+C:\Prakash\Practice\Logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Data.pdb
+C:\Prakash\Practice\Logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Entities.dll
+C:\Prakash\Practice\Logging\BookClub.Data\bin\Debug\netstandard2.0\BookClub.Entities.pdb
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csproj.AssemblyReference.cache
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.AssemblyInfoInputs.cache
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.AssemblyInfo.cs
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.csproj.CopyComplete
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.dll
+C:\Prakash\Practice\Logging\BookClub.Data\obj\Debug\netstandard2.0\BookClub.Data.pdb

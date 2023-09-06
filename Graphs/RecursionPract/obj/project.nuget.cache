@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Cpg03iMFRBDHOBFsZC+xXqn6j0O0rkvv1iKoXV8/VTfaE+M6p+9IKkF/XMCu5s+5zw2wPIfXdbBxWcn+G21JzA==",
+  "dgSpecHash": "+RelYOGeTr4KpvRlqoSUOp7RulPnp4d10IphR3G/jz53Z5VW/RDVhfFmFdovhUURSeWu3pZe8g2AM44l0hhvfQ==",
   "success": true,
-  "projectFilePath": "C:\\Practice\\Coding\\DSA\\Graphs\\RecursionPract\\RecursionPract.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Prakash\\Practice\\Graphs\\RecursionPract\\RecursionPract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

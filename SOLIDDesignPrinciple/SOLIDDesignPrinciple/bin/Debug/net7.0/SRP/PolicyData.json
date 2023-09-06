@@ -1,0 +1,14 @@
+{
+  "policy": [
+    {
+      "policyType": "Auto",
+      "policyName": "AutoInsurance",
+      "validity": "yearly"
+    },
+    {
+      "policyType": "Health",
+      "policyName": "HealthInsurance",
+      "validity": "monthly"
+    }
+  ]
+}

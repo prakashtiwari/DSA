@@ -1,0 +1,9 @@
+﻿Single Responsibility Principle:
+These principles are used to write:
+1. Testable and Maintainable code.
+SRP:
+Each software should have one and only one reason to change.
+//Tight coupling: 
+//Loose coupling:
+//Cohesion: 
+//If classes have more responsibility, its difficult to test.

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KkSv7Y9yoUK9HO5wlkCtqwUsEONzBogpCXmk9R6cESTH914Et+xhXzEVuQe+pqGrsBc9U+sfgVTuLUVyFOZU7g==",
+  "dgSpecHash": "D3FpP9ScaLWvpq29MFB4EGfvz8jFxvywiPKf8tazr+buBlN6yww3AYEP9OgUUabL/dQ0JLsUV89qz0vKB6X59w==",
   "success": true,
-  "projectFilePath": "C:\\Practice\\Coding\\DSA\\Graphs\\ArraySolution\\ArraySolution.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Prakash\\Practice\\Graphs\\ArraySolution\\ArraySolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

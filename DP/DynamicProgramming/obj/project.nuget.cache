@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/M/ZDEzUJaD13zCmPNt1QjzqSowuyTvXnIRVQfdbWr+2KFIT3lbs5dAbnayO5ScyVIUEY+KVh2GmsVVzHMCngw==",
+  "dgSpecHash": "ytxMAM0bbsV6mw2zwUlzn03rKA+wZ5vGu/TJ1k+BDGTrhndFui9CaVD1TZX30ysJKO3hjPt2ce4dYk98KAvHeQ==",
   "success": true,
-  "projectFilePath": "C:\\Practice\\Coding\\DSA\\DP\\DynamicProgramming\\DynamicProgramming.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Prakash\\Practice\\DP\\DynamicProgramming\\DynamicProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

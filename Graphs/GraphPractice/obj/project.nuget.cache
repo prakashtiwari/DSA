@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "it8hvRBeMnrVU16eGrtxoqTCdZsRp4zBvxbyrjbpgQ5biKcmB0sj1CvQvMdQ0pA+gz91xXu91qk1SYHSKDRrAg==",
+  "dgSpecHash": "LIYs6QDq7jhI9FVQye+o9AXeQz5TznXTrPaDKjdrKVr7hgU0XRE3sabPVB1PEoKFByTaYZxqyRDNlvpztkuTWg==",
   "success": true,
-  "projectFilePath": "C:\\Practice\\Coding\\DSA\\Graphs\\GraphPractice\\GraphPractice.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Prakash\\Practice\\Graphs\\GraphPractice\\GraphPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

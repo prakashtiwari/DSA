@@ -1,0 +1,10 @@
+C:\Prakash\Practice\Logging\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.deps.json
+C:\Prakash\Practice\Logging\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.dll
+C:\Prakash\Practice\Logging\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.pdb
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.csproj.AssemblyReference.cache
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.AssemblyInfoInputs.cache
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.AssemblyInfo.cs
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.dll
+C:\Prakash\Practice\Logging\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.pdb

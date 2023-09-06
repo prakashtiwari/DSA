@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "O1J1dI2lkrBTJ4V6pS882ZmAPNKjvoHUxm0c0t/Oo64pfU3oruPxqB+68Gjgct9qpR+vrCzcO9jdU9l8gaLEPQ==",
+  "dgSpecHash": "D5bruOYIIWoIjzOolxP6Fxtlfq5PnmV1uAAujX03HDhrF9oPrkWShU5Dv43WnOrc/BtlBZYk3cbTByC8tx1jEQ==",
   "success": true,
-  "projectFilePath": "C:\\Practice\\Coding\\DSA\\ConcurrentCollection\\ConcurrentCollection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Prakash\\Practice\\ConcurrentCollection\\ConcurrentCollection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

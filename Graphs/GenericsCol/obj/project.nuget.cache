@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "joJx9SgFXhJ0mdehJsBImDndXGYOg1A7TWBG5MSfuu/OGIZuZxJmffRXzi8yjGjXQFEn4nu2rIXsNQjV+84CoA==",
+  "dgSpecHash": "0/4vPnGiZ4Hbpo+o0aubaT0edTOqkbV+7Q1VXeEjff0j7pgJ5X2ooqyd18J6KUIqhXIPPWlkt5WSvFqFDi++7g==",
   "success": true,
-  "projectFilePath": "C:\\Practice\\Coding\\DSA\\Graphs\\GenericsCol\\GenericsCol.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Prakash\\Practice\\Graphs\\GenericsCol\\GenericsCol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

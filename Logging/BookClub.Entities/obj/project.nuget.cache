@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXB6/SgpM66YOA70BKpChYyZctbxaKQeYSje9pdGaOot4BcnsAlqnKuIWhVeRJmGi04kxFrcWIJ7I5VkktIzbA==",
+  "success": true,
+  "projectFilePath": "C:\\Prakash\\Practice\\Logging\\BookClub.Entities\\BookClub.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
