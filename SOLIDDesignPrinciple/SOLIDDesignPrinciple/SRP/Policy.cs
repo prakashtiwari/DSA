@@ -10,6 +10,7 @@ namespace SOLIDDesignPrinciple.SRP
     {
         public PolicyType PolType { get; set; }
         public string PolicyName { get; set; }
+        public string Make { get; set; }
         public string Validity { get; set; }        
     }
 }

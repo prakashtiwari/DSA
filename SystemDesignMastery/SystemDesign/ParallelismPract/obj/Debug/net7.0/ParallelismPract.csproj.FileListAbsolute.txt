@@ -1,0 +1,15 @@
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\bin\Debug\net7.0\ParallelismPract.exe
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\bin\Debug\net7.0\ParallelismPract.deps.json
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\bin\Debug\net7.0\ParallelismPract.runtimeconfig.json
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\bin\Debug\net7.0\ParallelismPract.dll
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\bin\Debug\net7.0\ParallelismPract.pdb
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.csproj.AssemblyReference.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.AssemblyInfoInputs.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.AssemblyInfo.cs
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.dll
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\refint\ParallelismPract.dll
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.pdb
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ParallelismPract.genruntimeconfig.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\ParallelismPract\obj\Debug\net7.0\ref\ParallelismPract.dll

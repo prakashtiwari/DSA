@@ -22,6 +22,13 @@ namespace SOLIDDesignPrinciple.SRP
             {
 
                 case PolicyType.Auto:
+                    Console.WriteLine($"Evaluating the Auto polict");
+                    Console.WriteLine($"Validating policy");
+                    if (string.IsNullOrEmpty(data.Make))
+                    {
+                        Console.WriteLine($"Make should be provided.");
+                        return 1;
+                    }
                     //Do the extensive validation
                     break;
                 case PolicyType.Environment:

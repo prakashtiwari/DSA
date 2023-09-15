@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BEG42CSp4T6CXvQr3JVuYiRiq/u+jq2NUbDDzsw5n/8pnLX8IkrEnVtAfq9JNJRa1h/HKQPfn1sjHACH5bl/w==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\Coding\\DSA\\Graphs\\Resiliency.BulkHead\\Resiliency.BulkHead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
