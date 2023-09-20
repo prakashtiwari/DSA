@@ -1,0 +1,15 @@
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\bin\Debug\net7.0\SOLID.exe
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\bin\Debug\net7.0\SOLID.deps.json
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\bin\Debug\net7.0\SOLID.runtimeconfig.json
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\bin\Debug\net7.0\SOLID.dll
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\bin\Debug\net7.0\SOLID.pdb
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.csproj.AssemblyReference.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfoInputs.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.AssemblyInfo.cs
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.dll
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\refint\SOLID.dll
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.pdb
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\SOLID.genruntimeconfig.cache
+C:\Prakash\Practice\SystemDesignMastery\SystemDesign\SOLID\obj\Debug\net7.0\ref\SOLID.dll
