@@ -15,12 +15,13 @@ namespace SOLIDDesignPrinciple.SRP
             //Resp1: Logging
             Console.WriteLine($"Rating started.");
             Console.WriteLine($"Rating loading.");
+            //Resp2: Loading data
             string policyData = File.ReadAllText("SRP/PolicyData.json");
+            //Resp3: Deserialize data.
             var data = JsonSerializer.Deserialize<Policy>(policyData);
-
-            switch (data.PolType)
+            switch (data.PolicyType)
             {
-
+                //Resp4: Business rules based on policy.
                 case PolicyType.Auto:
                     Console.WriteLine($"Evaluating the Auto polict");
                     Console.WriteLine($"Validating policy");
