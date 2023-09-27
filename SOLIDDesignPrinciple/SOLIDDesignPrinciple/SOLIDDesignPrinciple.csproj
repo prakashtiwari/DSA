@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <Folder Include="DIP\" />
-    <Folder Include="ISP\" />
     <Folder Include="OCP\" />
   </ItemGroup>
 
