@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DSA\GraphPract\bin\Release\net7.0\GraphPract.exe
+C:\Prakash\Practice\DSA\GraphPract\bin\Release\net7.0\GraphPract.deps.json
+C:\Prakash\Practice\DSA\GraphPract\bin\Release\net7.0\GraphPract.runtimeconfig.json
+C:\Prakash\Practice\DSA\GraphPract\bin\Release\net7.0\GraphPract.dll
+C:\Prakash\Practice\DSA\GraphPract\bin\Release\net7.0\GraphPract.pdb
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.AssemblyInfo.cs
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.dll
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\refint\GraphPract.dll
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.pdb
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\GraphPract.genruntimeconfig.cache
+C:\Prakash\Practice\DSA\GraphPract\obj\Release\net7.0\ref\GraphPract.dll

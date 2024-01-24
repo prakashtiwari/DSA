@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\bin\Debug\net7.0\GarbageCollection.exe
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\bin\Debug\net7.0\GarbageCollection.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\bin\Debug\net7.0\GarbageCollection.runtimeconfig.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\bin\Debug\net7.0\GarbageCollection.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\bin\Debug\net7.0\GarbageCollection.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\refint\GarbageCollection.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\GarbageCollection.genruntimeconfig.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\GarbageCollection\obj\Debug\net7.0\ref\GarbageCollection.dll

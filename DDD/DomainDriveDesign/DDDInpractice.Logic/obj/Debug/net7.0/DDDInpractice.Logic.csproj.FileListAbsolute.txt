@@ -1,0 +1,12 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\bin\Debug\net7.0\DDDInpractice.Logic.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\bin\Debug\net7.0\DDDInpractice.Logic.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\bin\Debug\net7.0\DDDInpractice.Logic.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\refint\DDDInpractice.Logic.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\DDDInpractice.Logic.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\DDDInpractice.Logic\obj\Debug\net7.0\ref\DDDInpractice.Logic.dll

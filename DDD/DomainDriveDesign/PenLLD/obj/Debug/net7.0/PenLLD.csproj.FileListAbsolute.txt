@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\bin\Debug\net7.0\PenLLD.exe
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\bin\Debug\net7.0\PenLLD.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\bin\Debug\net7.0\PenLLD.runtimeconfig.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\bin\Debug\net7.0\PenLLD.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\bin\Debug\net7.0\PenLLD.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\refint\PenLLD.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\PenLLD.genruntimeconfig.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\PenLLD\obj\Debug\net7.0\ref\PenLLD.dll

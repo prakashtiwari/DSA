@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DSA\StackPractice\bin\Debug\net7.0\StackPractice.exe
+C:\Prakash\Practice\DSA\StackPractice\bin\Debug\net7.0\StackPractice.deps.json
+C:\Prakash\Practice\DSA\StackPractice\bin\Debug\net7.0\StackPractice.runtimeconfig.json
+C:\Prakash\Practice\DSA\StackPractice\bin\Debug\net7.0\StackPractice.dll
+C:\Prakash\Practice\DSA\StackPractice\bin\Debug\net7.0\StackPractice.pdb
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.AssemblyInfo.cs
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.dll
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\refint\StackPractice.dll
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.pdb
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\StackPractice.genruntimeconfig.cache
+C:\Prakash\Practice\DSA\StackPractice\obj\Debug\net7.0\ref\StackPractice.dll

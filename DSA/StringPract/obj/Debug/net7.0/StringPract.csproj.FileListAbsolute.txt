@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DSA\StringPract\bin\Debug\net7.0\StringPract.exe
+C:\Prakash\Practice\DSA\StringPract\bin\Debug\net7.0\StringPract.deps.json
+C:\Prakash\Practice\DSA\StringPract\bin\Debug\net7.0\StringPract.runtimeconfig.json
+C:\Prakash\Practice\DSA\StringPract\bin\Debug\net7.0\StringPract.dll
+C:\Prakash\Practice\DSA\StringPract\bin\Debug\net7.0\StringPract.pdb
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.AssemblyInfo.cs
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.dll
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\refint\StringPract.dll
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.pdb
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\StringPract.genruntimeconfig.cache
+C:\Prakash\Practice\DSA\StringPract\obj\Debug\net7.0\ref\StringPract.dll

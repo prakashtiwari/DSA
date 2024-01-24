@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>PerformanceConstruct.ArrayDiagnoser-20240114-214500</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.22621.2861/22H2/2022Update/SunValley2)
+11th Gen Intel Core i5-11320H 3.20GHz, 1 CPU, 8 logical and 4 physical cores
+.NET SDK 7.0.400
+  [Host]     : .NET 7.0.10 (7.0.1023.36312), X64 RyuJIT AVX2 [AttachedDebugger]
+  DefaultJob : .NET 7.0.10 (7.0.1023.36312), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Size</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Gen0</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Original</td><td>10</td><td>80.0569 ns</td><td>5.9665 ns</td><td>16.3331 ns</td><td>77.8068 ns</td><td>0.0305</td><td>128 B</td>
+</tr><tr><td>ArrayCopy</td><td>10</td><td>19.2945 ns</td><td>3.1693 ns</td><td>9.1947 ns</td><td>17.4956 ns</td><td>0.0153</td><td>64 B</td>
+</tr><tr><td>Span</td><td>10</td><td>0.6506 ns</td><td>0.0806 ns</td><td>0.2376 ns</td><td>0.5877 ns</td><td>-</td><td>-</td>
+</tr></tbody></table>
+</body>
+</html>

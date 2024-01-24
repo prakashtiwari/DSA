@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DSA\ArrayPract\bin\Debug\net7.0\ArrayPract.exe
+C:\Prakash\Practice\DSA\ArrayPract\bin\Debug\net7.0\ArrayPract.deps.json
+C:\Prakash\Practice\DSA\ArrayPract\bin\Debug\net7.0\ArrayPract.runtimeconfig.json
+C:\Prakash\Practice\DSA\ArrayPract\bin\Debug\net7.0\ArrayPract.dll
+C:\Prakash\Practice\DSA\ArrayPract\bin\Debug\net7.0\ArrayPract.pdb
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.AssemblyInfo.cs
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.dll
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\refint\ArrayPract.dll
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.pdb
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ArrayPract.genruntimeconfig.cache
+C:\Prakash\Practice\DSA\ArrayPract\obj\Debug\net7.0\ref\ArrayPract.dll
