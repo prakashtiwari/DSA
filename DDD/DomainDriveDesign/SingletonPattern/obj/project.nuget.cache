@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4jN5+MRZoFasXaYWEbH4LVNruX9b5mXSxK5eX55Zq6fcQhzBTBEa+tHgr2M3+NL0LxDFMQPSCu2o2lbrehJ/A==",
+  "success": true,
+  "projectFilePath": "C:\\Prakash\\Practice\\DDD\\DomainDriveDesign\\SingletonPattern\\SingletonPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\bin\Debug\net7.0\BookMyShow.Domain.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\bin\Debug\net7.0\BookMyShow.Domain.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\bin\Debug\net7.0\BookMyShow.Domain.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\refint\BookMyShow.Domain.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\BookMyShow.Domain.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Domain\obj\Debug\net7.0\ref\BookMyShow.Domain.dll

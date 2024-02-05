@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\bin\Debug\net7.0\DapperRepo.exe
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\bin\Debug\net7.0\DapperRepo.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\bin\Debug\net7.0\DapperRepo.runtimeconfig.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\bin\Debug\net7.0\DapperRepo.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\bin\Debug\net7.0\DapperRepo.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\refint\DapperRepo.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\DapperRepo.genruntimeconfig.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\DapperRepo\obj\Debug\net7.0\ref\DapperRepo.dll

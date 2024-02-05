@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\bin\Debug\net7.0\BuilderPattern.exe
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\bin\Debug\net7.0\BuilderPattern.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\bin\Debug\net7.0\BuilderPattern.runtimeconfig.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\bin\Debug\net7.0\BuilderPattern.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\bin\Debug\net7.0\BuilderPattern.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\refint\BuilderPattern.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\BuilderPattern.genruntimeconfig.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BuilderPattern\obj\Debug\net7.0\ref\BuilderPattern.dll

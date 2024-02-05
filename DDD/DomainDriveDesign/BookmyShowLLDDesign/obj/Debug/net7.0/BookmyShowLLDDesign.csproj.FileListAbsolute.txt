@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\bin\Debug\net7.0\BookmyShowLLDDesign.exe
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\bin\Debug\net7.0\BookmyShowLLDDesign.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\bin\Debug\net7.0\BookmyShowLLDDesign.runtimeconfig.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\bin\Debug\net7.0\BookmyShowLLDDesign.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\bin\Debug\net7.0\BookmyShowLLDDesign.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\refint\BookmyShowLLDDesign.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\BookmyShowLLDDesign.genruntimeconfig.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookmyShowLLDDesign\obj\Debug\net7.0\ref\BookmyShowLLDDesign.dll

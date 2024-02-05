@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\bin\Debug\net7.0\BookMyShow.Infrastructure.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\bin\Debug\net7.0\BookMyShow.Infrastructure.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\bin\Debug\net7.0\BookMyShow.Infrastructure.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\refint\BookMyShow.Infrastructure.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\ref\BookMyShow.Infrastructure.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\bin\Debug\net7.0\BookMyShow.Domain.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\bin\Debug\net7.0\BookMyShow.Domain.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\BookMyShow.Infrastructure\obj\Debug\net7.0\BookMyShow.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\bin\Debug\net7.0\SplitwiseLLD.exe
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\bin\Debug\net7.0\SplitwiseLLD.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\bin\Debug\net7.0\SplitwiseLLD.runtimeconfig.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\bin\Debug\net7.0\SplitwiseLLD.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\bin\Debug\net7.0\SplitwiseLLD.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\refint\SplitwiseLLD.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\SplitwiseLLD.genruntimeconfig.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SplitwiseLLD\obj\Debug\net7.0\ref\SplitwiseLLD.dll
