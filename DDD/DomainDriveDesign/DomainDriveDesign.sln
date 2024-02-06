@@ -49,19 +49,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{86AEECA3-0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonTest", "SingletonTest\SingletonTest.csproj", "{84C63C73-8BCF-43B3-BC3B-77660670301A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMyShow.Api", "BookMyShow.Api\BookMyShow.Api.csproj", "{B0199273-64EF-4D9B-B9B8-5C1D915BE6E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMyShow.Api", "BookMyShow.Api\BookMyShow.Api.csproj", "{B0199273-64EF-4D9B-B9B8-5C1D915BE6E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMyShow.Domain", "BookMyShow.Domain\BookMyShow.Domain.csproj", "{63B775E0-9528-4C2C-962E-B4D3BB39329E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMyShow.Domain", "BookMyShow.Domain\BookMyShow.Domain.csproj", "{63B775E0-9528-4C2C-962E-B4D3BB39329E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMyShow.Infrastructure", "BookMyShow.Infrastructure\BookMyShow.Infrastructure.csproj", "{0429DDEE-F16C-4A68-A7FD-C4261E4C0DA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMyShow.Infrastructure", "BookMyShow.Infrastructure\BookMyShow.Infrastructure.csproj", "{0429DDEE-F16C-4A68-A7FD-C4261E4C0DA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMyShow.Application", "BookMyShow.Application\BookMyShow.Application.csproj", "{F1923365-BBF7-4815-AF2C-DCD82905B1E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMyShow.Application", "BookMyShow.Application\BookMyShow.Application.csproj", "{F1923365-BBF7-4815-AF2C-DCD82905B1E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMyShow.Common.Exception", "BookMyShow.Common.Exception\BookMyShow.Common.Exception.csproj", "{FDBFBE56-BCCD-42AF-8860-68E37BB268E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMyShow.Common.Exception", "BookMyShow.Common.Exception\BookMyShow.Common.Exception.csproj", "{FDBFBE56-BCCD-42AF-8860-68E37BB268E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TicTacToe", "TicTacToe", "{2E399F0A-3525-4D28-8CF8-1074F8ABEAF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.Domain", "TicTacToe.Domain\TicTacToe.Domain.csproj", "{722FE102-6392-4331-B97C-0099AA676BCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe.Domain", "TicTacToe.Domain\TicTacToe.Domain.csproj", "{722FE102-6392-4331-B97C-0099AA676BCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SnakeAndLadder", "SnakeAndLadder", "{570F5E5E-F35F-432C-BC01-B23334C74E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeAndLadder.Model", "SnakeAndLadder.Model\SnakeAndLadder.Model.csproj", "{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,10 @@ Global
 		{722FE102-6392-4331-B97C-0099AA676BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{722FE102-6392-4331-B97C-0099AA676BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{722FE102-6392-4331-B97C-0099AA676BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +174,7 @@ Global
 		{F1923365-BBF7-4815-AF2C-DCD82905B1E9} = {9B1C9480-FDB3-4EC0-AC60-E6374BC82754}
 		{FDBFBE56-BCCD-42AF-8860-68E37BB268E9} = {9B1C9480-FDB3-4EC0-AC60-E6374BC82754}
 		{722FE102-6392-4331-B97C-0099AA676BCB} = {2E399F0A-3525-4D28-8CF8-1074F8ABEAF1}
+		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E} = {570F5E5E-F35F-432C-BC01-B23334C74E2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CBB9C789-F776-4A3B-9F94-B31F26437929}

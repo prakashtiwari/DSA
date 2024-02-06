@@ -1,0 +1,12 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\bin\Debug\net7.0\SnakeAndLadder.Model.deps.json
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\bin\Debug\net7.0\SnakeAndLadder.Model.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\bin\Debug\net7.0\SnakeAndLadder.Model.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\refint\SnakeAndLadder.Model.dll
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\SnakeAndLadder.Model.pdb
+C:\Prakash\Practice\DDD\DomainDriveDesign\SnakeAndLadder.Model\obj\Debug\net7.0\ref\SnakeAndLadder.Model.dll
