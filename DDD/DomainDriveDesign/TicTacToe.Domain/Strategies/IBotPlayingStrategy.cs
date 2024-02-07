@@ -4,6 +4,6 @@ namespace TicTacToe.Domain.Strategies
 {
     public interface IBotPlayingStrategy
     {
-        Move MakeNextMove(Board board, Symbol symbol);
+        Move MakeNextMove(Board board, Player player);
     }
 }

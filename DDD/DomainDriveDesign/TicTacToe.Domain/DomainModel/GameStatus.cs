@@ -9,7 +9,8 @@ namespace TicTacToe.Domain.DomainModel
     public enum GameStatus
     {
         WON,
-        DRAW
+        DRAW,
+        ENDED
 
     }
 }

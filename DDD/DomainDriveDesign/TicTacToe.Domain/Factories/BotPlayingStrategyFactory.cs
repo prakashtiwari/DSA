@@ -10,8 +10,8 @@ namespace TicTacToe.Domain.Factories
             switch (botDifficultyLevel.ToString())
             {
                 case "Simple":
-
                     return new RandonBotPlayingStrategy();
+                default: return null;
             }
 
         }

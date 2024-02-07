@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TicTacToe.Domain.Factories
 {
-    internal class WinningStrategyFactory
+    public class WinningStrategyFactory
     {
+
     }
 }

@@ -1,0 +1,5 @@
+C:\Prakash\Practice\DDD\DomainDriveDesign\TicTacToe.Domain\obj\Debug\net7.0\TicTacToe.Domain.csproj.AssemblyReference.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\TicTacToe.Domain\obj\Debug\net7.0\TicTacToe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\DDD\DomainDriveDesign\TicTacToe.Domain\obj\Debug\net7.0\TicTacToe.Domain.AssemblyInfoInputs.cache
+C:\Prakash\Practice\DDD\DomainDriveDesign\TicTacToe.Domain\obj\Debug\net7.0\TicTacToe.Domain.AssemblyInfo.cs
+C:\Prakash\Practice\DDD\DomainDriveDesign\TicTacToe.Domain\obj\Debug\net7.0\TicTacToe.Domain.csproj.CoreCompileInputs.cache

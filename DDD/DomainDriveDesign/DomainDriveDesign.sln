@@ -67,6 +67,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SnakeAndLadder", "SnakeAndL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeAndLadder.Model", "SnakeAndLadder.Model\SnakeAndLadder.Model.csproj", "{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameController", "GameController\GameController.csproj", "{08038A76-16E9-448C-8D1C-B0826A719092}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08038A76-16E9-448C-8D1C-B0826A719092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08038A76-16E9-448C-8D1C-B0826A719092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08038A76-16E9-448C-8D1C-B0826A719092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08038A76-16E9-448C-8D1C-B0826A719092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +181,7 @@ Global
 		{FDBFBE56-BCCD-42AF-8860-68E37BB268E9} = {9B1C9480-FDB3-4EC0-AC60-E6374BC82754}
 		{722FE102-6392-4331-B97C-0099AA676BCB} = {2E399F0A-3525-4D28-8CF8-1074F8ABEAF1}
 		{A10CBEB8-8891-4EA1-A379-0EE2AC4A627E} = {570F5E5E-F35F-432C-BC01-B23334C74E2A}
+		{08038A76-16E9-448C-8D1C-B0826A719092} = {2E399F0A-3525-4D28-8CF8-1074F8ABEAF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CBB9C789-F776-4A3B-9F94-B31F26437929}

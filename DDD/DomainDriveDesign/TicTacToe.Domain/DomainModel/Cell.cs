@@ -10,6 +10,10 @@
         {
             return false; //Symbol.
         }
+        public void ClearCell()
+        {
+            this.Symbol = new Symbol { character = ' ' };
+        }
 
     }
 }

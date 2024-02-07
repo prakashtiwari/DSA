@@ -1,6 +1,6 @@
 ﻿namespace TicTacToe.Domain.DomainModel
 {
-    public class Player
+    public abstract class Player
     {
         public PlayerType Type { get; set; }
         public string Name { get; set; }
@@ -11,6 +11,8 @@
             this.Type = playerType;
             this.Symbol = symbol;
         }
+        public abstract Move MakeMove(Board board);
+     
 
     }
 }
