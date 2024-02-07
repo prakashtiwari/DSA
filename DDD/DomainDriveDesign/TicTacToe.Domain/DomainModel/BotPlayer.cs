@@ -18,5 +18,9 @@ namespace TicTacToe.Domain.DomainModel
             var botPalyingFactory = new BotPlayingStrategyFactory().CreateBotPlayingStrategy(botDifficultyLevel);//Get the strategy based on difficulty.
             this.botPlayingStrategy = botPlayingStrategy;
         }
+        public override Move MakeMove(Board board)
+        {
+            return this.botPlayingStrategy.MakeNextMove(board,this);
+        }
     }
 }
