@@ -1,0 +1,17 @@
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\bin\Debug\net7.0\AsynchronousPractice.exe
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\bin\Debug\net7.0\AsynchronousPractice.deps.json
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\bin\Debug\net7.0\AsynchronousPractice.runtimeconfig.json
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\bin\Debug\net7.0\AsynchronousPractice.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\bin\Debug\net7.0\AsynchronousPractice.pdb
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\bin\Debug\net7.0\Dapper.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.csproj.AssemblyReference.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.AssemblyInfoInputs.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.AssemblyInfo.cs
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.csproj.CopyComplete
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\refint\AsynchronousPractice.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.pdb
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\AsynchronousPractice.genruntimeconfig.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\AsynchronousPractice\obj\Debug\net7.0\ref\AsynchronousPractice.dll

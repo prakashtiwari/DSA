@@ -1,0 +1,12 @@
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\bin\Debug\net7.0\DataAcces.deps.json
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\bin\Debug\net7.0\DataAcces.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\bin\Debug\net7.0\DataAcces.pdb
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.csproj.AssemblyReference.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.AssemblyInfoInputs.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.AssemblyInfo.cs
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\refint\DataAcces.dll
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\DataAcces.pdb
+C:\Prakash\Practice\AsyncLuv\AsynchronousPractice\DataAcces\obj\Debug\net7.0\ref\DataAcces.dll

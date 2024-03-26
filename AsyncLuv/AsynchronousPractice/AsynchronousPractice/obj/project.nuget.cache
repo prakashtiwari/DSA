@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yv5Td6/QllsMjMuoSQo2HB7TxFRahDpUqTFfhR9MDdIoMUwed46uh4QtmchV/mzi7oKpFsqIagCWUeosSJyv1g==",
+  "success": true,
+  "projectFilePath": "C:\\Prakash\\Practice\\AsyncLuv\\AsynchronousPractice\\AsynchronousPractice\\AsynchronousPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKASH TIWARI\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
